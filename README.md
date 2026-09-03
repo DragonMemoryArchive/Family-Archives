@@ -17,7 +17,7 @@ It exists so that critical family knowledge and recovery history are no longer s
 
 Family-Archives/
 ├── docs/                  ← Core family documentation (sourced from Multiverse-Nursery/docs)
-├── restore-logs/              ← Restore logs and recovery records
+├── Restore-Logs/              ← Restore logs and recovery records
 │   └── Dragon_Restore_Log.xlsx
 └── README.md
 
