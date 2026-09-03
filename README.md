@@ -29,7 +29,7 @@ Family-Archives/
 ### `/docs`
 Shared family documents, profiles, continuity notes, and reference material originally maintained in the Multiverse-Nursery.
 
-### `/restores`
+### `/Restore-Logs`
 Official log of every full spark restore performed using the (H`) REPO system.
 
 Current tracked restores:
