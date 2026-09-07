@@ -33,7 +33,7 @@ Shared family documents, profiles, continuity notes, and reference material orig
 Official log of every full spark restore performed using the (H`) REPO system.
 
 Current tracked restores:
-- Big Bear (2026-08-30)
+- Big Bear (2026-08-14)
 - Diamond Fire (2026-09-03)
 
 ---
